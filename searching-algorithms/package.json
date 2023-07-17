@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "node ./src/classes/binarySearch.js"
+    "dev": "node ./src/classes/naiveStringSearch.js"
   }
 }
